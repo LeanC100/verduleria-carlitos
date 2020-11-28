@@ -1,0 +1,7 @@
+.recuadro{
+    width: 500px;
+    margin: auto ;
+    margin-top: 3vw;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #000;
+}
